@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Uned._0c2021.LogicaDeNegocio</RootNamespace>
+  </PropertyGroup>
+
+</Project>
